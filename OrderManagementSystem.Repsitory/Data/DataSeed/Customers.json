@@ -1,0 +1,24 @@
+{
+  "Customers": [
+    {
+      "Name": "John Doe",
+      "Email": "john.doe@example.com"
+    },
+    {
+      "Name": "Jane Smith",
+      "Email": "jane.smith@example.com"
+    },
+    {
+      "Name": "Alice Johnson",
+      "Email": "alice.johnson@example.com"
+    },
+    {
+      "Name": "Bob Brown",
+      "Email": "bob.brown@example.com"
+    },
+    {
+      "Name": "Charlie Davis",
+      "Email": "charlie.davis@example.com"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Products": [
+    {
+      "Name": "Laptop",
+      "Price": 999.99,
+      "Stock": 50
+    },
+    {
+      "Name": "Smartphone",
+      "Price": 699.99,
+      "Stock": 200
+    },
+    {
+      "Name": "Headphones",
+      "Price": 199.99,
+      "Stock": 150
+    },
+    {
+      "Name": "Monitor",
+      "Price": 299.99,
+      "Stock": 75
+    },
+    {
+      "Name": "Keyboard",
+      "Price": 49.99,
+      "Stock": 300
+    }
+  ]
+}
